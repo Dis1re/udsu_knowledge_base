@@ -1,0 +1,5 @@
+﻿  stack.cpp
+C:\Users\rblropb\Desktop\projects\Cpp\stack\stack.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\rblropb\Desktop\projects\Cpp\stack\stack.cpp(24,10): warning C4101: a2: неиспользованная локальная переменная
+C:\Users\rblropb\Desktop\projects\Cpp\stack\stack.cpp(24,6): warning C4101: a1: неиспользованная локальная переменная
+  stack.vcxproj -> C:\Users\rblropb\Desktop\projects\Cpp\stack\x64\Debug\stack.exe

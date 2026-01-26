@@ -1,0 +1,3 @@
+﻿  ind_tasks_3.0.cpp
+C:\Users\rblropb\Desktop\projects\Cpp\ind_tasks_3.0\ind_tasks_3.0.cpp(6,20): warning C4305: инициализация: усечение из "double" в "float"
+  ind_tasks_3.0.vcxproj -> C:\Users\rblropb\Desktop\projects\Cpp\ind_tasks_3.0\x64\Debug\ind_tasks_3.0.exe

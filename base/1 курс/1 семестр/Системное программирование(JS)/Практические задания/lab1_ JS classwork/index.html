@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Мишени</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body>
+<div class="wrapper">
+    <div class="sidebar_left">
+        <div>
+            <div>
+                <span>x</span>
+                <input id="x"/>
+            </div>
+            <div>
+                <span>y</span>
+                <input id="y"/>
+            </div>
+        </div>
+        <button id="startButton">стрелять</button>
+        <span id="result">результат</span>
+    </div>
+    <div class="sidebar_right">
+        <div>
+            <div class="figureBlock">
+                <input type="checkbox" id="center" name="myCheckbox" checked>
+                <label for="center">Центральная точка</label>
+                <div>
+                    <label for="centerX0">x0</label>
+                    <input id="centerX0" type="text" size="5">
+                    <label for="centerY0">y0</label>
+                    <input id="centerY0" type="text" size="5">
+                    <label for="centerPoints">очки</label>
+                    <input id="centerPoints" type="text" size="5">
+                    <label for="centerPar">r</label>
+                    <input id="centerPar" type="text" size="5">
+                </div>
+            </div>
+            <div class="figureBlock">
+                <input type="checkbox" id="astroid" name="myCheckbox" checked>
+                <label for="astroid">Астроида</label>
+                <div>
+                    <label for="astroidX0">x0</label>
+                    <input id="astroidX0" type="text" size="5">
+                    <label for="astroidY0">y0</label>
+                    <input id="astroidY0" type="text" size="5">
+                    <label for="astroidPoints">очки</label>
+                    <input id="astroidPoints" type="text" size="5">
+                    <label for="astroidPar">r</label>
+                    <input id="astroidPar" type="text" size="5">
+                </div>
+            </div>
+            <div class="figureBlock">
+                <input type="checkbox" id="rhomb" name="myCheckbox" checked>
+                <label for="rhomb">Ромб</label>
+                <div>
+                    <label for="rhombX0">x0</label>
+                    <input id="rhombX0" type="text" size="5">
+                    <label for="rhombY0">y0</label>
+                    <input id="rhombY0" type="text" size="5">
+                    <label for="rhombPoints">очки</label>
+                    <input id="rhombPoints" type="text" size="5">
+                    <label for="rhombPar">d</label>
+                    <input id="rhombPar" type="text" size="5">
+                </div>
+            </div>
+            <div class="figureBlock">
+                <input type="checkbox" id="circle" name="myCheckbox" checked>
+                <label for="circle">Круг</label>
+                <div>
+                    <label for="circleX0">x0</label>
+                    <input id="circleX0" type="text" size="5">
+                    <label for="circleY0">y0</label>
+                    <input id="circleY0" type="text" size="5">
+                    <label for="circlePoints">очки</label>
+                    <input id="circlePoints" type="text" size="5">
+                    <label for="circlePar">r</label>
+                    <input id="circlePar" type="text" size="5">
+                </div>
+            </div>
+            <div class="figureBlock">
+                <input type="checkbox" id="square" name="myCheckbox" checked>
+                <label for="square">Квадрат</label>
+                <div>
+                    <label for="squareX0">x0</label>
+                    <input id="squareX0" type="text" size="5">
+                    <label for="squareY0">y0</label>
+                    <input id="squareY0" type="text" size="5">
+                    <label for="squarePoints">очки</label>
+                    <input id="squarePoints" type="text" size="5">
+                    <label for="squarePar">a</label>
+                    <input id="squarePar" type="text" size="5">
+                </div>
+            </div>
+        </div>
+    </div>
+    <canvas id="myCanvas" width="700" height="700"></canvas>
+</div>
+<script src="main.js"></script>
+</body>
+</html>

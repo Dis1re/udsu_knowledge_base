@@ -1,0 +1,5 @@
+﻿  ind_task_3.cpp
+C:\Users\rblropb\Desktop\projects\Cpp\ind_task_3\ind_task_3.cpp(6,11): warning C4101: y: неиспользованная локальная переменная
+C:\Users\rblropb\Desktop\projects\Cpp\ind_task_3\ind_task_3.cpp(29,7): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\rblropb\Desktop\projects\Cpp\ind_task_3\ind_task_3.cpp(26,11): warning C4101: y: неиспользованная локальная переменная
+  ind_task_3.vcxproj -> C:\Users\rblropb\Desktop\projects\Cpp\ind_task_3\x64\Debug\ind_task_3.exe

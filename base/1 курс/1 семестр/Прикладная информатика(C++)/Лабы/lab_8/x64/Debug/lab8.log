@@ -1,0 +1,3 @@
+﻿  lab8.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(741,5): error MSB6006: "CL.exe" завершилась с кодом 2.
+C:\Users\rblropb\Desktop\projects\Cpp\lab8\lab8.cpp(22,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

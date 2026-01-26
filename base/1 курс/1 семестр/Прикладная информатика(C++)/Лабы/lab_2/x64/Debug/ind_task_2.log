@@ -1,0 +1,5 @@
+﻿  ind_task_2.cpp
+C:\Users\rblropb\Desktop\projects\Cpp\ind_task_2\ind_task_2.cpp(18,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\rblropb\Desktop\projects\Cpp\ind_task_2\ind_task_2.cpp(35,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\rblropb\Desktop\projects\Cpp\ind_task_2\ind_task_2.cpp(43,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ind_task_2.vcxproj -> C:\Users\rblropb\Desktop\projects\Cpp\ind_task_2\x64\Debug\ind_task_2.exe

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>drawer</title>
+    <link rel="stylesheet" type="text/css" href='style.css'>
+    <script src="js/data.js"></script>
+    <script src="js/Func.js"></script>
+    <script src="js/Graph.js"></script>
+    <script src="js/main.js"></script>
+</head>
+<body>
+<div id="wrapper">
+    <div id="inputBlock">
+        <span>Введите функцию: y =</span>
+        <input type="text" id="inputText">
+        <button id="inputButton">ок</button>
+    </div>
+    <div>
+        <input type="color" id="inputFuncColor">
+        <input type="range" id="inputFuncSize" value="3" min="1" max="11" step="2" list="marks">
+        <datalist id="marks">
+            <option value="1">1</option>
+            <option value="3">3</option>
+            <option value="5">5</option>
+            <option value="7">7</option>
+            <option value="9">9</option>
+            <option value="11">11</option>
+        </datalist>
+    </div>
+    <div id="funcList"></div>
+    <div id="canvasFr">
+        <canvas id="canvas"></canvas>
+    </div>
+</div>
+</body>
+</html>

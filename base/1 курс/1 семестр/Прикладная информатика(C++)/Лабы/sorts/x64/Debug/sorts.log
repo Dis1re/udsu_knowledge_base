@@ -1,0 +1,8 @@
+﻿  sorts.cpp
+C:\Users\rblropb\Desktop\projects\Cpp\sorts\sorts.cpp(10,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\rblropb\Desktop\projects\Cpp\sorts\sorts.cpp(14,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\rblropb\Desktop\projects\Cpp\sorts\sorts.cpp(18,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\rblropb\Desktop\projects\Cpp\sorts\sorts.cpp(20,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\rblropb\Desktop\projects\Cpp\sorts\sorts.cpp(74,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\rblropb\Desktop\projects\Cpp\sorts\sorts.cpp(76,17): warning C4101: sorted: неиспользованная локальная переменная
+  sorts.vcxproj -> C:\Users\rblropb\Desktop\projects\Cpp\sorts\x64\Debug\sorts.exe

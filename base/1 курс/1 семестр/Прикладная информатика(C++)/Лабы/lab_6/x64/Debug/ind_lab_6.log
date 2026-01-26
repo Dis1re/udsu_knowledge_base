@@ -1,0 +1,4 @@
+﻿  ind_lab_6.cpp
+C:\Users\rblropb\Desktop\projects\Cpp\ind_lab_6\ind_lab_6.cpp(16,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\rblropb\Desktop\projects\Cpp\ind_lab_6\ind_lab_6.cpp(21,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ind_lab_6.vcxproj -> C:\Users\rblropb\Desktop\projects\Cpp\ind_lab_6\x64\Debug\ind_lab_6.exe

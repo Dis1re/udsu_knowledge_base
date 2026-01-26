@@ -1,0 +1,7 @@
+﻿  lab_4.cpp
+C:\Users\rblropb\Desktop\projects\Cpp\lab_4\lab_4.cpp(31,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\rblropb\Desktop\projects\Cpp\lab_4\lab_4.cpp(63,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\rblropb\Desktop\projects\Cpp\lab_4\lab_4.cpp(65,20): warning C4101: minj: неиспользованная локальная переменная
+C:\Users\rblropb\Desktop\projects\Cpp\lab_4\lab_4.cpp(65,15): warning C4101: min: неиспользованная локальная переменная
+C:\Users\rblropb\Desktop\projects\Cpp\lab_4\lab_4.cpp(137,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab_4.vcxproj -> C:\Users\rblropb\Desktop\projects\Cpp\lab_4\x64\Debug\lab_4.exe

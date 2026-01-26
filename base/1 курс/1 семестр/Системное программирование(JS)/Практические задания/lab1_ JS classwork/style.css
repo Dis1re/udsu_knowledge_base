@@ -1,0 +1,22 @@
+
+.wrapper {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 5px;
+    padding: 5px;
+}
+
+.sidebar_right, .sidebar_left {
+    justify-content: center;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid #000;
+    text-align: center;
+}
+
+.figureBlock {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid#000;
+}
